@@ -2,7 +2,7 @@
   "name": "mongo-express-api",
   "version": "1.0.0",
   "description": "",
-  "main": "test/reading_test.js",
+  "main": "index.js",
   "scripts": {
     "test": "nodemon --exec 'mocha --recursive -R min'"
   },
